@@ -1,0 +1,21 @@
+{
+  "filiallar":
+          [
+            {
+              "name": "Chilonzor ",
+              "location":"https://maps.app.goo.gl/AoheYSj4EBWQc4397"
+            },
+            {
+              "name": "Xadra",
+              "location": "https://maps.app.goo.gl/deSf61R1KyicNC1c7"
+            },
+            {
+              "name": "Chimboy",
+              "location": "https://maps.app.goo.gl/aaPTYfJAhgRDjJ6r7"
+            },
+            {
+              "name": "Farg'ona",
+              "location": "https://maps.app.goo.gl/pbdpuEoTyB4yxzQE6"
+            }
+          ]
+}
