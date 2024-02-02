@@ -1,0 +1,68 @@
+{
+      "course": [
+            {
+                  "name": "python",
+                  "description": "the best",
+                  "modules_count": 12,
+                  "price": 20,
+                  "active_students": 0,
+                  "create_date": "2023-12-14 15:40:10.338130"
+            },
+            {
+                  "name": "java",
+                  "description": "backend",
+                  "modules_count": "10",
+                  "price": 120,
+                  "active_students": 1,
+                  "create_date": "2023-12-15 23:38:38.078739"
+            },
+            {
+                  "name": "c++",
+                  "description": "eski",
+                  "modules_count": "5",
+                  "price": 100,
+                  "active_students": 1,
+                  "create_date": "2023-12-16 09:10:18.615796"
+            },
+            {
+                  "name": "javascript",
+                  "description": "frontend",
+                  "modules_count": "9",
+                  "price": 150,
+                  "active_students": 0,
+                  "create_date": "2023-12-16 09:43:02.431460"
+            },
+            {
+                  "name": "c#",
+                  "description": "himoyaviy",
+                  "modules_count": "5",
+                  "price": 125,
+                  "active_students": 1,
+                  "create_date": "2023-12-16 11:40:02.902344"
+            },
+            {
+                  "name": "mysql",
+                  "description": "databases",
+                  "modules_count": "5",
+                  "price": 300,
+                  "active_students": 1,
+                  "create_date": "2023-12-16 18:34:31.105697"
+            },
+            {
+                  "name": "c#",
+                  "description": "2qe",
+                  "modules_count": "4",
+                  "price": 123,
+                  "active_students": 0,
+                  "create_date": "2023-12-18 00:38:37.545232"
+            },
+            {
+                  "name": "go",
+                  "description": "yaxshi",
+                  "modules_count": "8",
+                  "price": 100,
+                  "active_students": 0,
+                  "create_date": "2023-12-18 11:10:57.406052"
+            }
+      ]
+}
