@@ -24,7 +24,7 @@ class O:
                 sum = sum + st[a[i]]
         sum = sum + st[a[z-1]]
 
-        print(sum)
+        print("result=",sum)
 
 O.romane(input("romane = "))
 

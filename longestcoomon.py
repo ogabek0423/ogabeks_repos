@@ -1,17 +1,18 @@
 class Prefix:
     @staticmethod
     def pre():
-        x = ['ogabekjon', 'ogabek', 'ogash']
+        x = ['abcdef', 'abcde', 'abcd', 'abcdefg']
         y = list(x[0])
         a = ''
         for z in range(len(y)):
             b = a
             a += y[z]
-            if a in x[0] and a in x[1] and a in x[2]:
-                pass
-            else:
-                print(b)
-                break
+            for i in range(len(x)):
+                if a in x[i]:
+                    pass
+                else:
+                    print(b)
+                    break
 
 Prefix.pre()
 
